@@ -2,7 +2,6 @@
 
 Welcome to the repository for my **Linktree-inspired website**! This project serves as a personal hub for all my important links, social media accounts, and projects—beautifully and simply displayed.
 
-![noobplayer7.vercel.app](https://noobplayer7.vercel.app/)
 ![image](https://github.com/user-attachments/assets/c66f0b4b-2957-42b6-852e-1b7a17e5ef72)
 
 ---
